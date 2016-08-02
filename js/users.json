@@ -1,0 +1,87 @@
+[
+
+   {
+
+      "id": "1",
+
+      "username": "samer",
+
+      "password": "123456",
+
+      "birthDay": "1929/05/12",
+
+      "zipcode": "1616"
+
+   },
+
+   {
+
+      "id": "2",
+
+      "username": "zaher",
+
+      "password": "aaaa",
+
+      "birthDay": "1999/04/2",
+
+      "zipcode": "5616"
+
+   },
+
+   {
+
+      "id": "3",
+
+      "username": "morad",
+
+      "password": "ssas",
+
+      "birthDay": "1992/07/16",
+
+      "zipcode": "1615"
+
+   },
+
+   {
+
+      "id": "4",
+
+      "username": "condoriano",
+
+      "password": "123456",
+
+      "birthDay": "1959/05/30",
+
+      "zipcode": "1611"
+
+   },
+
+   {
+
+      "id": "5",
+
+      "username": "foze",
+
+      "password": "abcdef",
+
+      "birthDay": "1917/06/18",
+
+      "zipcode": "1216"
+
+   },
+
+   {
+
+      "id": "6",
+
+      "username": "nseem",
+
+      "password": "123456",
+
+      "birthDay": "1929/12/10",
+
+      "zipcode": "1619"
+
+   }
+
+]

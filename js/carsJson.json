@@ -1,0 +1,35 @@
+[
+
+   {
+
+      "ID": "1",
+
+      "brand": " volvo",
+
+      "model": "1992",
+
+      "color": "green",
+
+      "condition": "very rough",
+
+      "notes": " this is such a bad car "
+
+   },
+
+   {
+
+      "ID": "2",
+
+      "brand": " ferrari",
+
+      "model": "95",
+
+      "color": "red",
+
+      "condition": "very good",
+
+      "notes": "this is a simple note  "
+
+   }
+
+]

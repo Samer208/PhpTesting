@@ -1,0 +1,36 @@
+div
+{
+	margin-top: 10px;
+}
+.redclass
+{
+	color: red; 
+}
+
+
+.php_div_test
+{
+background: lightgrey;
+padding:10px;
+}
+
+table ,tr,td
+{
+	border: solid black 1px;
+	text-align: center;
+}
+
+tr:nth-child(odd)
+{
+	background: lightgrey;
+}
+#loginform
+{
+	padding:25px;
+	margin-top:20px;
+	width:260px;
+	height: 100px;
+	background-color:lightblue;
+	border-radius: 20px;
+	
+}
